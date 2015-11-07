@@ -1,7 +1,7 @@
 name: jsquared
 favicon: null
 layout_spectrum: 0.41925842384807765
-typography_spectrum: 0.8427402942907065
+typography_spectrum: 0.30684
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040505'
-    - '#000000'
-    - '#040404'
-    - '#030505'
-    - '#030404'
+    - '#100d0b'
+    - '#eeede7'
+    - '#ad9f77'
+    - '#332d1d'
+    - '#655e30'
   brandStrength: 0.5992053549271077
   lightness: 0.8929702336899936
   saturation: 0.2586515531875193
