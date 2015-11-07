@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jsquared]]></title>
         <description><![CDATA[jsquared]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jsquared/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 18:23:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 18:57:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jsquared/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ProjectSeven]]></title>
+            <description><![CDATA[<article><h1>ProjectSeven</h1><img src="http://projectseven.us/templates/sixsix/img/logo.png"></article>]]></description>
+            <link>https://thegrid.ai/jsquared/projectseven/index.html</link>
+            <guid isPermaLink="false">3fe040b8-5b5c-4f99-bae4-06f6482dbafb</guid>
+            <pubDate>Sat, 07 Nov 2015 18:57:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test of the GRID... WOOOT!</p>]]></description>
-            <link>undefined4e10d2da-9650-47fa-aac2-cf667ec18b75/index.html</link>
+            <link>https://thegrid.ai/jsquared/4e10d2da-9650-47fa-aac2-cf667ec18b75/index.html</link>
             <guid isPermaLink="false">4e10d2da-9650-47fa-aac2-cf667ec18b75</guid>
             <pubDate>Sat, 07 Nov 2015 18:23:43 GMT</pubDate>
         </item>
