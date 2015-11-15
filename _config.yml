@@ -1,20 +1,4 @@
-name: jsquared
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.47212
-title: jsquared
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -24,6 +8,11 @@ color:
     - '#cb888a'
   brandStrength: 0.5
   lightness: 0.125
-  saturation: 0.0625
   rhythmicContrast: 1
+  saturation: 0.0625
+cta: {}
+layout_spectrum: 0.305743
+name: jsquared
+opengraph: {}
 purpose: []
+typography_spectrum: 0.47212
