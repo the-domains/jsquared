@@ -9,10 +9,10 @@ color:
   brandStrength: 0.5
   lightness: 0.125
   rhythmicContrast: 1
-  saturation: 0.0625
+  saturation: 0.5
 cta: {}
 layout_spectrum: 1
 name: jsquared
 opengraph: {}
 purpose: []
-typography_spectrum: 0.028716
+typography_spectrum: 0.47212
