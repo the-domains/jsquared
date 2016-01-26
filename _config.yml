@@ -2,12 +2,12 @@ analytics: {}
 color:
   brandColors:
     - '#000000'
-    - '#ffffff'
+    - '#FFFFFF'
     - '#406743'
-    - '#8dd39d'
-    - '#cb888a'
+    - '#8DD39D'
+    - '#CB888A'
   brandStrength: 0.5
-  lightness: 0.125
+  lightness: 0.527871
   rhythmicContrast: 1
   saturation: 0.5
 cta: {}
