@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JSquared]]></title>
+        <description><![CDATA[JSquared]]></description>
+        <link>https://thegrid.ai/jsquared/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 03:22:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jsquared/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emerald Turtle]]></title>
+            <description><![CDATA[<article><h1>Emerald Turtle</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b5041e0-6dcb-4431-b11e-a17d497d184d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jsquared/emerald-turtle/index.html</link>
+            <guid isPermaLink="false">78bd2d36-f8b2-4daf-80a9-ddc9a41088ff</guid>
+            <pubDate>Mon, 19 Dec 2016 03:21:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
