@@ -1,18 +1,30 @@
+name: jsquared
+layout_spectrum: 0.5117184888653568
+typography_spectrum: 0.3020126252974577
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#406743'
-    - '#8DD39D'
-    - '#CB888A'
-  brandStrength: 0.5
-  lightness: 0.527871
-  rhythmicContrast: 1
-  saturation: 0.5
-cta: {}
-layout_spectrum: 0.441722
-name: jsquared
-opengraph: {}
-purpose: []
-typography_spectrum: 0.47212
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.9028155570351841
+  lightness: 0.30084539060941945
+  saturation: 0.3469615801722549
+  rhythmicContrast: 0.15040538792987124
+purpose:
+  - type: contact
+    label: Contact Me
+    url: 'mailto:jrj@p7n.net'
+title: JSquared
+description: The art of Jason Johnson
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
