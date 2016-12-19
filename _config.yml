@@ -1,4 +1,4 @@
-name: jsquared
+name: JSquared
 layout_spectrum: 0.5117184888653568
 typography_spectrum: 0.3020126252974577
 cta: {}
@@ -23,7 +23,10 @@ purpose:
     url: 'mailto:jrj@p7n.net'
 title: JSquared
 description: The art of Jason Johnson
-author: {}
+author:
+  name: Jason Johnson
+  url: 'https://jsquared.digital'
+  email: jrj@p7n.net
 content_rating:
   adult: false
 content: []
